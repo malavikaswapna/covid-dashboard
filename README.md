@@ -1,6 +1,6 @@
 # 🦠 COVID-19 Global Dashboard
 
-![COVID-19 Dashboard Screenshot](https://i.postimg.cc/PJqvSB9J/Screenshot-2025-05-01-at-2-21-22-pm.png)
+![COVID-19 Dashboard Screenshot](https://i.imgur.com/4cZYwzw.png)
 
 [✨ Live Demo](https://malavikaswapna.github.io/covid-dashboard/)  
 Frontend: [https://malavikaswapna.github.io/covid-dashboard](https://malavikaswapna.github.io/covid-dashboard)  
